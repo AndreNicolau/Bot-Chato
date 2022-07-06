@@ -1,5 +1,4 @@
-from gettext import install
-
+# Use this script to install the pyautogui library dependencies
 
 import os
 
@@ -10,4 +9,4 @@ try:
     print('Module pyautogui imported')
 except ModuleNotFoundError:
     print('Module pyautogui not found. Trying to install')
-    install('pyautogui')
+    os.system('pip install pyautogui')
