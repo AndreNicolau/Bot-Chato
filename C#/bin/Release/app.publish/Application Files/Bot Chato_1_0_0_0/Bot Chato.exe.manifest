@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Bot Chato.exe" version="1.0.0.0" publicKeyToken="618df405faa2b929" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Bot Chato" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Bot Chato.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bot Chato.exe" size="11176">
+      <assemblyIdentity name="Bot Chato" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>o/NmydtD5o1az2YDBZuAlVGj3gXM0tYqNoYtzJcc90o=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Bot Chato.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+CM46OnHRrXZXNLMx7+U3V3iubiYL//d8hGOR13lDhU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LENOVO\andre" issuerKeyHash="5cb1641be4029d722dcc1a064f6a2216f7b199b7" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>VdvqfnEg1/ePrIMgZAYomHrHbbsr/WaF6kuAriXsBhY=</DigestValue></Reference></SignedInfo><SignatureValue>fYKh0yFSTyZVb/HbETVqJCHKuSTB/MiSSZ65+3ZMt8ef98xIEcQr6nxSydCJcaZ2e0dAHjnQpyPG7enfZQ10/zdxlnPMNBDt6t4/j2sg707eL8WPK0nsVAlRS1bIJ1VmUBCVl2UFhQr9Y0/Gi44AO/59Y35e43kmSf6i76EmUdU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>054dLnRrL36NW3yRDf4c0j6D9ZTC1RlLzl25cprHiMiBPcDyp/oUUsho3T4q5xkmtY29m+QfynDZ8K8qrCn9JJLgdhb3dqoksSRATp0w38M1NLPMCRXR+nOpHW8MjyvK627YZ+4SjZHNuF7xofPkXWHODcU43lFssJbeFBZh75E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1606ec25ae804bea8566fd2bbb6dc77a982806642083ac8ff7d720717eeadb55" Description="" Url=""><as:assemblyIdentity name="Bot Chato.exe" version="1.0.0.0" publicKeyToken="618df405faa2b929" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LENOVO\andre</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ROmG3jsxpw6KJY5HkagyLTmSmO40HVs6Of/GaagkjLw=</DigestValue></Reference></SignedInfo><SignatureValue>J9pE41dFAq4NTFNNUs7j504QpBdimCXpCvRdJNfMbhY5hbpRZ77vwAsSTP8WDwk0PHNMosC5+EaRVZL2Bt0vmJK13fx9NKpMoQ4ORSi6eMse32s16mXR8V/KnOicbEaQ/oZYCnCQ4mxIKk9ZurX1DFjhxu1pXMeuQM10PFKzIr4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>054dLnRrL36NW3yRDf4c0j6D9ZTC1RlLzl25cprHiMiBPcDyp/oUUsho3T4q5xkmtY29m+QfynDZ8K8qrCn9JJLgdhb3dqoksSRATp0w38M1NLPMCRXR+nOpHW8MjyvK627YZ+4SjZHNuF7xofPkXWHODcU43lFssJbeFBZh75E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQVqFQy57hbYFJlrFx4JOMcDANBgkqhkiG9w0BAQsFADAjMSEwHwYDVQQDHhgATABFAE4ATwBWAE8AXABhAG4AZAByAGUwHhcNMjIwNjI3MjMzMzI5WhcNMjMwNjI4MDUzMzI5WjAjMSEwHwYDVQQDHhgATABFAE4ATwBWAE8AXABhAG4AZAByAGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANOeHS50ay9+jVt8kQ3+HNI+g/WUwtUZS85duXKax4jIgT3A8qf6FFLIaN0+KucZJrWNvZvkH8pw2fCvKqwp/SSS4HYW93aqJLEkQE6dMN/DNTSzzAkV0fpzqR1vDI8ryutu2GfuEo2Rzbhe8aHz5F1hzg3FON5RbLCW3hQWYe+RAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAlc2IZcdiucXx8MrcMDVgO4Jlkitnvx40Gu+P8a/y1ZMQ/Ku1Gcxotxe6J0nR12dpz9baf9f0xnhlilAO6EY6WMDP3AId/lB2R6eXTQfB7FJsItd+4+BougeXJ3znoa3q9rnglOQPum51q2ml85GIT24B6zGS4VM7PozyxhX32qQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\Bot Chato\bin\Release\Bot Chato.exe.config
+C:\Users\andre\source\repos\Bot Chato\bin\Release\Bot Chato.exe
+C:\Users\andre\source\repos\Bot Chato\bin\Release\Bot Chato.pdb
+C:\Users\andre\source\repos\Bot Chato\obj\Release\Bot Chato.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Bot Chato\obj\Release\Bot Chato.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\Bot Chato\obj\Release\Bot_Chato.Form1.resources
+C:\Users\andre\source\repos\Bot Chato\obj\Release\Bot_Chato.Properties.Resources.resources
+C:\Users\andre\source\repos\Bot Chato\obj\Release\Bot Chato.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Bot Chato\obj\Release\Bot Chato.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Bot Chato\obj\Release\Bot Chato.exe
+C:\Users\andre\source\repos\Bot Chato\obj\Release\Bot Chato.pdb
+C:\Users\andre\source\repos\Bot Chato\bin\Release\Bot Chato.exe.manifest
+C:\Users\andre\source\repos\Bot Chato\bin\Release\Bot Chato.application
+C:\Users\andre\source\repos\Bot Chato\obj\Release\Bot Chato.exe.manifest
+C:\Users\andre\source\repos\Bot Chato\obj\Release\Bot Chato.application
