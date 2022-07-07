@@ -15,6 +15,7 @@ namespace Bot_Chato
         {
             duration = 10;
             timer1.Start();
+            
         }
 
         private void count_down(object sender, EventArgs e)
@@ -39,7 +40,13 @@ namespace Bot_Chato
             {
                 duration--;
                 lblContagem.Text = duration.ToString();
+                
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            
         }
     }
 }

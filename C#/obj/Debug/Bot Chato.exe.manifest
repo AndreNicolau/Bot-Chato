@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bot Chato.exe" size="11176">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bot Chato.exe" size="11688">
       <assemblyIdentity name="Bot Chato" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>BmLRVTiY+FIAypHd1G6aPO0kwWBRd0uiXB2FBRpiBUc=</dsig:DigestValue>
+        <dsig:DigestValue>tkRcqWi/LZq3WegxFlk4Ywf8fKc1qpT4WHkBtGTSwcA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
