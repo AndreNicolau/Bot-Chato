@@ -4,7 +4,7 @@ Bot para enviar **'n'** mensagens repetidamente.
 
 ## Autor: **André Nicolau**
 
-![](https://photos.app.goo.gl/cjYbiz4Q7hak1qqb9)
+![Foto perfil](https://photos.app.goo.gl/cjYbiz4Q7hak1qqb9)
 
 _Redes Sociais_
 
