@@ -12,5 +12,7 @@ _Redes Sociais_
 
 [Facebook](https://www.facebook.com/rodinhaass)
 
-[Spotify] (https://open.spotify.com/user/0xkggemo4tc3eqgmug2danlv2) 
+[Spotify](https://open.spotify.com/user/0xkggemo4tc3eqgmug2danlv2)
+
+
 
