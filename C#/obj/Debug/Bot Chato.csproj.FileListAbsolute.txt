@@ -24,3 +24,18 @@ C:\Users\andre\Documents\GitHub\Bot-Chato\C#\obj\Debug\Bot Chato.exe.manifest
 C:\Users\andre\Documents\GitHub\Bot-Chato\C#\obj\Debug\Bot Chato.application
 C:\Users\andre\Documents\GitHub\Bot-Chato\C#\obj\Debug\Bot Chato.exe
 C:\Users\andre\Documents\GitHub\Bot-Chato\C#\obj\Debug\Bot Chato.pdb
+C:\Users\Nicolau\Documents\GitHub\Bot-Chato\C#\bin\Debug\Bot Chato.exe.config
+C:\Users\Nicolau\Documents\GitHub\Bot-Chato\C#\bin\Debug\Bot Chato.exe.manifest
+C:\Users\Nicolau\Documents\GitHub\Bot-Chato\C#\bin\Debug\Bot Chato.application
+C:\Users\Nicolau\Documents\GitHub\Bot-Chato\C#\bin\Debug\Bot Chato.exe
+C:\Users\Nicolau\Documents\GitHub\Bot-Chato\C#\bin\Debug\Bot Chato.pdb
+C:\Users\Nicolau\Documents\GitHub\Bot-Chato\C#\obj\Debug\Bot Chato.csproj.AssemblyReference.cache
+C:\Users\Nicolau\Documents\GitHub\Bot-Chato\C#\obj\Debug\Bot Chato.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolau\Documents\GitHub\Bot-Chato\C#\obj\Debug\Bot_Chato.Form1.resources
+C:\Users\Nicolau\Documents\GitHub\Bot-Chato\C#\obj\Debug\Bot_Chato.Properties.Resources.resources
+C:\Users\Nicolau\Documents\GitHub\Bot-Chato\C#\obj\Debug\Bot Chato.csproj.GenerateResource.cache
+C:\Users\Nicolau\Documents\GitHub\Bot-Chato\C#\obj\Debug\Bot Chato.csproj.CoreCompileInputs.cache
+C:\Users\Nicolau\Documents\GitHub\Bot-Chato\C#\obj\Debug\Bot Chato.exe.manifest
+C:\Users\Nicolau\Documents\GitHub\Bot-Chato\C#\obj\Debug\Bot Chato.application
+C:\Users\Nicolau\Documents\GitHub\Bot-Chato\C#\obj\Debug\Bot Chato.exe
+C:\Users\Nicolau\Documents\GitHub\Bot-Chato\C#\obj\Debug\Bot Chato.pdb
